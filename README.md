@@ -32,11 +32,12 @@ The dataset used in this project is included with the scikit-learn library ([`sk
 
 ### REFERENCES
 
+- Grader, P. (2011). Machine learning engineer Nanodegree. Retrieved August 31, 2016, from Udacity Machine Learning Nano-Degree, https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+
 - Schneider, J. (1997, February 07). Cross validation. Retrieved August 31, 2016, from Carnegie Mellon School of Computer Science, https://www.cs.cmu.edu/~schneide/tut5/node42.html
 
 - Cross-validation (statistics) (2016). . In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 
-- 2014. (2010). 3.1. Cross-validation: Evaluating estimator performance — scikit-learn 0.17.1 documentation. Retrieved August 31, 2016, from http://scikit-learn.org/, http://scikit-learn.org/stable/modules/cross_validation.html
-2015. 
+- 2014. (2010). 3.1. Cross-validation: Evaluating estimator performance — scikit-learn 0.17.1 documentation. Retrieved August 31, 2016, from http://scikit-learn.org/, http://scikit-learn.org/stable/modules/cross_validation.html 2015. 
 
 - Why every statistician should know about cross-validation. (2010, October 4). Retrieved August 31, 2016, from A blog by Rob J Hyndman, http://robjhyndman.com/hyndsight/crossvalidation/
